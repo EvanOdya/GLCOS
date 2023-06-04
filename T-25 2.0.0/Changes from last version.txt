@@ -1,0 +1,6 @@
+New Format with seprate files for simpilar reading(hopefully)
+More errors
+begining to implement stuff for the BYRC
+fixed a speeling mistake in the estoping fuction name
+made a mat mode with ride data
+read reports

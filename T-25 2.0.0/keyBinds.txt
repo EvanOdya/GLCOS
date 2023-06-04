@@ -1,0 +1,12 @@
+Key Binds
+
+Right Dispatch = 1
+Left Dispatch = 3
+Both Dispatch = 31
+ESR Reset = 2
+Estop = 4
+Restriants = 5
+FE Right Dispatch = y
+FE ESR Reset = Evan Odya
+FE Estop = take5
+
