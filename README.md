@@ -13,4 +13,9 @@ NO music or log read write will work unless you change the absolute paths for al
 
 T-35 1.5.0: Launch system and is also not tested
 
+Welcome.php: The start of the local server for ride data
+
+ORC_0.5: The test code for the Gyro
+
+toPHP: is the deployment code that will connect to wifi and send gyro data to the php
 
